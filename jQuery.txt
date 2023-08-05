@@ -19,3 +19,6 @@
 
 2: Install your own copy
 -- works without internet connection.
+
+
+=> $ (jQuery object).
