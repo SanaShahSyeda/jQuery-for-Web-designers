@@ -1,0 +1,21 @@
+=> JS library: adds on to javascript.
+=> jQuery = a collection of JS functions.
+=> When to use jQuery?
+1: Wordpress, Drupal, Bootstrap, Foundation and Angular uses jQuery.
+2: PLugins
+3: support older browsers.
+4: Write less JS code.
+
+=> When not to use jQuery?
+1: Save bytes and microseconds of speed.
+
+
+=> jQuery is customizable.
+
+=> Install jQuery
+1: call direct from CDN(contact delivery network::loading file from another web server to your own):
+-- Faster download.
+-- might already be cached from another sight.
+
+2: Install your own copy
+-- works without internet connection.
